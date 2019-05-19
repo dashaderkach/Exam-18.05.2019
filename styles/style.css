@@ -194,9 +194,9 @@ a:hover {
 }
 
 .ba-whychooseus__text{
-	width: 55%;
+	width: 50%;
 	float: left;
-	padding: 50px;
+	padding-right: 100px;
 }
 
 .text__item1{
@@ -233,7 +233,7 @@ a:hover {
 }
 
 .ba-whychooseus__photo{
-	width: 45%;
+	width: 40%;
 	float: right;
 }
 .photo__cover{
@@ -399,7 +399,7 @@ a:hover {
 
 .main-block__textblock{
 	float: right;
-	width: 60%;
+	width: 50%;
 	padding: 15px 50px;
 }
 
